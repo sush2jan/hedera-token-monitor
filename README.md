@@ -119,11 +119,13 @@ python .\monitor.py
 
 ## Assumptions
 
+## Assumptions
+
 - The assignment suggested `0.0.12345` as a placeholder account ID if a real Testnet account was not available.
 - A real Hedera Testnet account was created for this submission, so `operator_account_id` is used as the monitored account.
-- `account_id` is retained in `config.json` to reflect the original prompt, but the current code monitors `operator_account_id`.
+- `account_id` is retained in `config.json` to reflect the original prompt, but the current implementation monitors `operator_account_id`.
 - `history_account_id` is used for the transaction history feature.
-- A valid private key is required because the balance monitoring path uses the SDK.
+- A valid `operator_account_id` and `operator_private_key` are required because the balance monitoring path initializes the Hedera SDK client and executes the balance query through that client.
 - The transaction history feature uses the public Hedera Testnet Mirror Node REST API.
 
 ## Retry demo
