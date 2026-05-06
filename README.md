@@ -119,8 +119,6 @@ python .\monitor.py
 
 ## Assumptions
 
-## Assumptions
-
 - The assignment suggested `0.0.12345` as a placeholder account ID if a real Testnet account was not available.
 - A real Hedera Testnet account was created for this submission, so `operator_account_id` is used as the monitored account.
 - `account_id` is retained in `config.json` to reflect the original prompt, but the current implementation monitors `operator_account_id`.
