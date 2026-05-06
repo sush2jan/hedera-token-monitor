@@ -1,6 +1,6 @@
 {
-  "operator_account_id": "0.0.8857486",
-  "operator_private_key": "3030020100300706052b8104000a0422042076e74c9867237f43bdf50273c0cbe126a701a116a6509fa43bbd9bac01946388",
+  "operator_account_id": "0.0.YOUR_PRIVATE_ACCOUNT_ID_HERE",
+  "operator_private_key": "302e020100300506032b657004220420YOUR_PRIVATE_KEY_HERE",
   "account_id": "0.0.12345",
   "poll_interval_seconds": 30,
   "low_balance_threshold_hbar": 10,
