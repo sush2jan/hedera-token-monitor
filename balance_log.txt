@@ -1,0 +1,221 @@
+2026-05-05 19:59:46,213 | ERROR | Unexpected error: type object 'com.hedera.hashgraph.sdk.Client' has no attribute 'for_testnet'
+2026-05-05 20:00:23,769 | ERROR | Unexpected error: 'com.hedera.hashgraph.sdk.Client' object has no attribute 'set_operator'
+2026-05-05 20:01:44,529 | ERROR | Unexpected error: 'com.hedera.hashgraph.sdk.Client' object has no attribute 'set_operator'
+2026-05-05 21:52:02,513 | INFO | Starting balance monitoring for account 0.0.12345 every 30 second(s) for 10 minute(s)
+2026-05-05 21:52:02,998 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-05 21:52:33,556 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-05 21:53:04,008 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-05 21:53:34,438 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-05 21:54:05,374 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-05 21:54:35,799 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-05 21:55:06,247 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-05 21:55:36,720 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-05 21:56:07,214 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-05 21:56:37,617 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-05 21:57:08,060 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-05 21:57:38,480 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-05 21:58:08,900 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-05 21:58:39,331 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-05 21:59:09,782 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-05 21:59:40,245 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-05 22:00:10,719 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-05 22:00:41,155 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-05 22:01:11,581 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-05 22:01:41,993 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-05 22:01:41,993 | INFO | Monitoring complete.
+2026-05-05 22:01:42,455 | INFO | Last 0 CRYPTOTRANSFER transaction(s) for account 0.0.7230975
+2026-05-06 08:44:13,573 | INFO | Starting balance monitoring for account 0.0.12345 every 30 second(s) for 10 minute(s)
+2026-05-06 08:44:14,029 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-06 08:44:44,449 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-06 08:45:14,891 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-06 08:45:45,382 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-06 08:46:15,840 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-06 08:46:46,266 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-06 08:47:16,667 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-06 08:47:47,164 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-06 08:48:17,594 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-06 08:48:48,032 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-06 08:49:18,603 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-06 08:49:49,041 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-06 08:50:19,476 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-06 08:50:50,016 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-06 08:51:21,730 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-06 08:51:53,670 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-06 08:52:24,122 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-06 08:52:54,787 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-06 08:53:25,413 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-06 08:53:55,849 | INFO | Account 0.0.12345 balance: 103074.65379399 HBAR
+2026-05-06 08:53:55,849 | INFO | Monitoring complete.
+2026-05-06 08:53:56,329 | INFO | Last 0 CRYPTOTRANSFER transaction(s) for account 0.0.7230975
+2026-05-06 09:56:00,080 | INFO | Starting balance monitoring for account 0.0.8857486 every 30 second(s) for 10 minute(s)
+2026-05-06 09:56:00,880 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 09:56:31,310 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 09:57:01,956 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 09:57:32,458 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 09:58:02,900 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 09:58:34,875 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 09:59:04,887 | WARNING | Attempt 1/3 failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-05-06 09:59:04,892 | INFO | Retrying in 1 second(s)...
+2026-05-06 09:59:05,898 | WARNING | Attempt 2/3 failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-05-06 09:59:05,904 | INFO | Retrying in 2 second(s)...
+2026-05-06 09:59:07,905 | WARNING | Attempt 3/3 failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-05-06 09:59:07,906 | ERROR | Failed to fetch balance after retries: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-05-06 09:59:37,907 | WARNING | Attempt 1/3 failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-05-06 09:59:37,907 | INFO | Retrying in 1 second(s)...
+2026-05-06 09:59:38,908 | WARNING | Attempt 2/3 failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-05-06 09:59:38,908 | INFO | Retrying in 2 second(s)...
+2026-05-06 09:59:40,911 | WARNING | Attempt 3/3 failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-05-06 09:59:40,911 | ERROR | Failed to fetch balance after retries: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-05-06 10:00:11,366 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 10:00:41,888 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 10:01:12,505 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 10:01:43,021 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 10:02:13,536 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 10:02:44,049 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 10:03:14,568 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 10:03:45,080 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 10:04:15,518 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 10:04:46,007 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 10:05:16,971 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 10:05:47,410 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 10:05:47,417 | INFO | Monitoring complete.
+2026-05-06 10:05:47,974 | INFO | Last 0 CRYPTOTRANSFER transaction(s) for account 0.0.7230975
+2026-05-06 10:27:17,395 | INFO | Starting balance monitoring for account 0.0.8857486 every 30 second(s) for 10 minute(s)
+2026-05-06 10:27:17,887 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 10:27:17,887 | WARNING | LOW BALANCE ALERT: account 0.0.8857486 balance 1000.00000000 HBAR is below threshold 1001.00000000 HBAR
+2026-05-06 10:27:48,338 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 10:27:48,338 | WARNING | LOW BALANCE ALERT: account 0.0.8857486 balance 1000.00000000 HBAR is below threshold 1001.00000000 HBAR
+2026-05-06 10:28:18,796 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 10:28:18,796 | WARNING | LOW BALANCE ALERT: account 0.0.8857486 balance 1000.00000000 HBAR is below threshold 1001.00000000 HBAR
+2026-05-06 10:28:49,223 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 10:28:49,223 | WARNING | LOW BALANCE ALERT: account 0.0.8857486 balance 1000.00000000 HBAR is below threshold 1001.00000000 HBAR
+2026-05-06 10:29:19,755 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 10:29:19,761 | WARNING | LOW BALANCE ALERT: account 0.0.8857486 balance 1000.00000000 HBAR is below threshold 1001.00000000 HBAR
+2026-05-06 10:29:50,280 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 10:29:50,283 | WARNING | LOW BALANCE ALERT: account 0.0.8857486 balance 1000.00000000 HBAR is below threshold 1001.00000000 HBAR
+2026-05-06 10:30:20,994 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 10:30:20,998 | WARNING | LOW BALANCE ALERT: account 0.0.8857486 balance 1000.00000000 HBAR is below threshold 1001.00000000 HBAR
+2026-05-06 10:30:51,459 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 10:30:51,459 | WARNING | LOW BALANCE ALERT: account 0.0.8857486 balance 1000.00000000 HBAR is below threshold 1001.00000000 HBAR
+2026-05-06 10:31:21,893 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 10:31:21,893 | WARNING | LOW BALANCE ALERT: account 0.0.8857486 balance 1000.00000000 HBAR is below threshold 1001.00000000 HBAR
+2026-05-06 10:31:52,309 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 10:31:52,309 | WARNING | LOW BALANCE ALERT: account 0.0.8857486 balance 1000.00000000 HBAR is below threshold 1001.00000000 HBAR
+2026-05-06 10:32:22,856 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 10:32:22,856 | WARNING | LOW BALANCE ALERT: account 0.0.8857486 balance 1000.00000000 HBAR is below threshold 1001.00000000 HBAR
+2026-05-06 10:32:53,602 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 10:32:53,606 | WARNING | LOW BALANCE ALERT: account 0.0.8857486 balance 1000.00000000 HBAR is below threshold 1001.00000000 HBAR
+2026-05-06 10:33:24,067 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 10:33:24,067 | WARNING | LOW BALANCE ALERT: account 0.0.8857486 balance 1000.00000000 HBAR is below threshold 1001.00000000 HBAR
+2026-05-06 10:33:54,605 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 10:33:54,606 | WARNING | LOW BALANCE ALERT: account 0.0.8857486 balance 1000.00000000 HBAR is below threshold 1001.00000000 HBAR
+2026-05-06 10:34:25,048 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 10:34:25,048 | WARNING | LOW BALANCE ALERT: account 0.0.8857486 balance 1000.00000000 HBAR is below threshold 1001.00000000 HBAR
+2026-05-06 10:34:55,548 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 10:34:55,548 | WARNING | LOW BALANCE ALERT: account 0.0.8857486 balance 1000.00000000 HBAR is below threshold 1001.00000000 HBAR
+2026-05-06 10:35:26,022 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 10:35:26,022 | WARNING | LOW BALANCE ALERT: account 0.0.8857486 balance 1000.00000000 HBAR is below threshold 1001.00000000 HBAR
+2026-05-06 10:35:56,666 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 10:35:56,666 | WARNING | LOW BALANCE ALERT: account 0.0.8857486 balance 1000.00000000 HBAR is below threshold 1001.00000000 HBAR
+2026-05-06 10:36:27,272 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 10:36:27,272 | WARNING | LOW BALANCE ALERT: account 0.0.8857486 balance 1000.00000000 HBAR is below threshold 1001.00000000 HBAR
+2026-05-06 10:36:57,742 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 10:36:57,742 | WARNING | LOW BALANCE ALERT: account 0.0.8857486 balance 1000.00000000 HBAR is below threshold 1001.00000000 HBAR
+2026-05-06 10:36:57,742 | INFO | Monitoring complete.
+2026-05-06 10:36:58,307 | INFO | Last 0 CRYPTOTRANSFER transaction(s) for account 0.0.7230975
+2026-05-06 10:42:20,685 | INFO | Starting balance monitoring for account 0.0.8857486 every 30 second(s) for 10 minute(s)
+2026-05-06 10:42:20,727 | WARNING | Attempt 1/3 failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-05-06 10:42:20,727 | INFO | Retrying in 1 second(s)...
+2026-05-06 10:42:21,733 | WARNING | Attempt 2/3 failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-05-06 10:42:21,733 | INFO | Retrying in 2 second(s)...
+2026-05-06 10:42:23,758 | WARNING | Attempt 3/3 failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-05-06 10:42:23,760 | ERROR | Failed to fetch balance after retries: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-05-06 10:42:53,777 | WARNING | Attempt 1/3 failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-05-06 10:42:53,777 | INFO | Retrying in 1 second(s)...
+2026-05-06 10:42:54,779 | WARNING | Attempt 2/3 failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-05-06 10:42:54,779 | INFO | Retrying in 2 second(s)...
+2026-05-06 10:42:56,793 | WARNING | Attempt 3/3 failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-05-06 10:42:56,793 | ERROR | Failed to fetch balance after retries: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-05-06 10:43:26,820 | WARNING | Attempt 1/3 failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-05-06 10:43:26,820 | INFO | Retrying in 1 second(s)...
+2026-05-06 10:43:27,829 | WARNING | Attempt 2/3 failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-05-06 10:43:27,829 | INFO | Retrying in 2 second(s)...
+2026-05-06 10:43:29,831 | WARNING | Attempt 3/3 failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-05-06 10:43:29,831 | ERROR | Failed to fetch balance after retries: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-05-06 10:43:53,027 | INFO | Starting balance monitoring for account 0.0.8857486 every 30 second(s) for 10 minute(s)
+2026-05-06 10:43:53,508 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 10:43:53,508 | WARNING | LOW BALANCE ALERT: account 0.0.8857486 balance 1000.00000000 HBAR is below threshold 1001.00000000 HBAR
+2026-05-06 10:44:24,197 | INFO | Starting balance monitoring for account 0.0.8857486 every 30 second(s) for 10 minute(s)
+2026-05-06 10:44:24,659 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 11:19:31,242 | INFO | Starting balance monitoring for account 0.0.8857486 every 30 second(s) for 10 minute(s)
+2026-05-06 11:19:33,004 | WARNING | Attempt 1/3 failed: float() argument must be a string or a real number, not 'Hbar'
+2026-05-06 11:19:33,004 | INFO | Retrying in 1 second(s)...
+2026-05-06 11:19:34,279 | WARNING | Attempt 2/3 failed: float() argument must be a string or a real number, not 'Hbar'
+2026-05-06 11:19:34,283 | INFO | Retrying in 2 second(s)...
+2026-05-06 11:19:36,557 | WARNING | Attempt 3/3 failed: float() argument must be a string or a real number, not 'Hbar'
+2026-05-06 11:19:36,557 | ERROR | Failed to fetch balance after retries: float() argument must be a string or a real number, not 'Hbar'
+2026-05-06 11:21:55,986 | INFO | Starting balance monitoring for account 0.0.8857486 every 30 second(s) for 10 minute(s)
+2026-05-06 11:21:57,883 | ERROR | Failed to fetch balance after retries: '<' not supported between instances of 'Hbar' and 'float'
+2026-05-06 11:22:29,145 | ERROR | Failed to fetch balance after retries: '<' not supported between instances of 'Hbar' and 'float'
+2026-05-06 11:23:00,343 | ERROR | Failed to fetch balance after retries: '<' not supported between instances of 'Hbar' and 'float'
+2026-05-06 11:23:31,560 | ERROR | Failed to fetch balance after retries: '<' not supported between instances of 'Hbar' and 'float'
+2026-05-06 11:24:02,874 | ERROR | Failed to fetch balance after retries: '<' not supported between instances of 'Hbar' and 'float'
+2026-05-06 11:24:29,746 | INFO | Starting balance monitoring for account 0.0.8857486 every 30 second(s) for 10 minute(s)
+2026-05-06 11:24:31,680 | ERROR | Failed to fetch balance after retries: '<' not supported between instances of 'Hbar' and 'float'
+2026-05-06 11:26:28,665 | INFO | Starting balance monitoring for account 0.0.8857486 every 30 second(s) for 10 minute(s)
+2026-05-06 11:26:30,478 | ERROR | Failed to fetch balance after retries: '<' not supported between instances of 'Hbar' and 'float'
+2026-05-06 11:27:04,130 | INFO | Starting balance monitoring for account 0.0.8857486 every 30 second(s) for 10 minute(s)
+2026-05-06 11:27:06,015 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 11:27:37,291 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 11:28:08,541 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 11:28:55,060 | INFO | Starting balance monitoring for account 0.0.8857486 every 30 second(s) for 10 minute(s)
+2026-05-06 11:28:56,864 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 11:38:45,727 | INFO | Starting balance monitoring for account 0.0.8857486 every 10 second(s) for 2 minute(s)
+2026-05-06 11:38:48,297 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 11:38:58,706 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 11:39:10,523 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 11:39:22,398 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 11:39:34,279 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 11:39:46,282 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 11:39:57,822 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 11:40:09,065 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 11:40:20,442 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 11:40:31,645 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 11:40:43,268 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 11:40:54,949 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 11:40:54,949 | INFO | Monitoring complete.
+2026-05-06 11:40:55,041 | WARNING | Attempt 1/3 failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-05-06 11:40:55,041 | INFO | Retrying in 1 second(s)...
+2026-05-06 11:40:56,047 | WARNING | Attempt 2/3 failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-05-06 11:40:56,049 | INFO | Retrying in 2 second(s)...
+2026-05-06 11:40:58,051 | WARNING | Attempt 3/3 failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-05-06 11:42:47,982 | INFO | Starting balance monitoring for account 0.0.8857486 every 10 second(s) for 2 minute(s)
+2026-05-06 11:42:50,401 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 11:43:01,696 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 11:43:13,509 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 11:43:24,737 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 11:43:36,219 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 11:43:46,550 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 11:43:56,844 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 11:44:08,196 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 11:44:19,882 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 11:44:31,277 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 11:44:42,667 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 11:44:54,478 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 11:44:54,478 | INFO | Monitoring complete.
+2026-05-06 11:44:55,362 | INFO | Last 0 CRYPTOTRANSFER transaction(s) for account 0.0.7230975
+2026-05-06 12:11:14,018 | INFO | Starting balance monitoring for account 0.0.8857486 every 10 second(s) for 2 minute(s)
+2026-05-06 12:11:15,725 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 12:11:27,250 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 12:11:38,971 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 12:11:50,532 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 12:12:01,628 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 12:12:13,135 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 12:12:24,601 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 12:12:35,788 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 12:12:46,974 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 12:12:58,419 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 12:13:10,021 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 12:13:21,137 | INFO | Account 0.0.8857486 balance: 1000.00000000 HBAR
+2026-05-06 12:13:21,139 | INFO | Monitoring complete.
+2026-05-06 12:13:21,791 | INFO | Last 0 CRYPTOTRANSFER transaction(s) for account 0.0.7230975

@@ -1,0 +1,12 @@
+{
+  "operator_account_id": "0.0.8857486",
+  "operator_private_key": "3030020100300706052b8104000a0422042076e74c9867237f43bdf50273c0cbe126a701a116a6509fa43bbd9bac01946388",
+  "account_id": "0.0.12345",
+  "poll_interval_seconds": 30,
+  "low_balance_threshold_hbar": 10,
+  "duration_minutes": 10,
+  "history_account_id": "0.0.7230975",
+  "history_limit": 5,
+  "mirror_node_timeout_seconds": 10,
+  "log_file": "balance_log.txt"
+}
