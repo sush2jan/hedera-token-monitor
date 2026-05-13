@@ -73,7 +73,6 @@ def alert_low_balance(logger, account_id, balance_hbar, threshold_hbar):
         f"LOW BALANCE ALERT: account {account_id} balance {balance_hbar:.8f} HBAR "
         f"is below threshold {threshold_hbar:.8f} HBAR"
     )
-    print(msg)
     logger.warning(msg)
 
 
@@ -107,9 +106,6 @@ def print_transaction_history(transactions, account_id, logger):
         len(transactions),
         account_id,
     )
-    if not transactions:
-        print(f"No CRYPTOTRANSFER transactions found for {account_id}.")
-        return
 
     for i, txn in enumerate(transactions, 1):
         print(f"\n[{i}] Transaction ID: {txn.get('transaction_id')}")
@@ -129,10 +125,10 @@ def validate_config(config):
     required = [
         "operator_account_id",
         "operator_private_key",
-        "account_id",
         "poll_interval_seconds",
         "low_balance_threshold_hbar",
         "duration_minutes",
+        "history_account_id",
         "history_limit",
         "mirror_node_timeout_seconds",
     ]
