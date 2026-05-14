@@ -5,14 +5,18 @@ import sys
 import time
 from pathlib import Path
 from urllib import parse, request
+from dotenv import load_dotenv
 
 from hiero_sdk_python import Client, CryptoGetAccountBalanceQuery, AccountId, PrivateKey
 
+load_dotenv()  # Load environment variables from .env file
 BASE_DIR = Path(__file__).resolve().parent
 CONFIG_FILE = Path(os.environ.get("HEDERA_CONFIG_FILE", BASE_DIR / "config.json"))
 LOG_FILE_DEFAULT = BASE_DIR / "balance_log.txt"
 MIRROR_NODE_BASE_URL = "https://testnet.mirrornode.hedera.com/api/v1"
 #MIRROR_NODE_BASE_URL = "https://testnet.mirrornode.hedera.invalid/api/v1"
+
+
 
 def load_config(path):
     with open(path, "r", encoding="utf-8") as f:
@@ -138,10 +142,15 @@ def validate_config(config):
 
 
 def monitor_balance(config, logger):
-    client = create_client(
-        config["operator_account_id"],
-        config["operator_private_key"],
-    )
+    try:
+        client = create_client(
+            config["operator_account_id"], 
+            os.getenv("OPERATOR_PRIVATE_KEY"),
+            #config["operator_private_key"],
+        )
+    except Exception as exc:
+        logger.error("Failed to create Hedera client: %s", exc)
+        raise exc
     interval = int(config.get("poll_interval_seconds", 30))
     threshold = float(config.get("low_balance_threshold_hbar", 10))
     duration_minutes = int(config.get("duration_minutes", 10))
